@@ -3,7 +3,7 @@
 ---
 ### ❓ About Me:
 
-- 🎓 **Currently majoring in:** a Bachelor's Degree for Game Art, with Game Programming as a free elective.
+- 🎓 **Currently majoring in:** A Bachelor's Degree for Game Art, with Game Programming as a free elective.
 - 🔭 **Currently working on:** Game mods and fixes focused around QoL and UX improvements.
   - 🐧 Also some occasional gamedev and Linux stuff.
 - 🌱 **Currently learning:** C++, Unity, and other things I'm probably forgetting about here.
