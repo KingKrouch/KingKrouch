@@ -11,7 +11,9 @@
 - 💬 **Ask me about:** Anything, really.
 - 🎮 **Game Genres I like:** Action Games, JRPGs, Fighting Games, Rhythm Games, Twitch-Shooters/Arena-Shooters/Boomer-Shooters.
 - 🎶 **Music Genres I like:** Metalcore, EDM, Vocaloid, Rap, Nu-Metal, Rock *(and Butt-Rock adjacent stuff)*, Pop *(Depends though)*, Video Game OSTs.
-- 📫 **How to reach me:** kingkrouch@outlook.com
+- 📫 **How to reach me:**
+  - **Email *(This is preferred for business related stuff)*:** kingkrouch@outlook.com
+  - **Discord:** KingKrouch#6276
 - 😄 **Pronouns:** They/Them *(Generally find gender neutral pronouns to be most convenient).*
 
 ### 📈 Stats:
