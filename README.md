@@ -14,7 +14,7 @@
 - 📫 **How to reach me:**
   - **Email *(This is preferred for business related stuff)*:** kingkrouch@outlook.com
   - **Discord:** KingKrouch#6276
-- 😄 **Pronouns:** They/Them *(Generally find gender neutral pronouns to be most convenient).*
+- 😄 **Pronouns:** He/Him, They/Them *(Generally find gender neutral pronouns to be most convenient, but call me whatever listed here).*
 
 ### 📈 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KingKrouch&theme=dark&background=000000)](https://git.io/streak-stats)
